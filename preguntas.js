@@ -1936,5 +1936,4 @@ const BBDD_PREGUNTAS = [
     }
 
 
-
 ];
