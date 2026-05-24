@@ -695,7 +695,6 @@ const BBDD_PREGUNTAS = [
     {
         tema: "Junio 2023 Modelo C",
         pregunta: "Potenciar la autoconfianza para contrarrestar el estrés es una estrategia muy útil en el periodo previo a una competición.",
-        // Imagen de autoconfianza vs estrés
         opciones: ["Verdadero", "Falso"],
         correcta: 0
     },
@@ -1339,7 +1338,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "En el alto rendimiento, el psicólogo tiene como único objetivo el bienestar emocional del deportista, por encima del rendimiento físico.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: El objetivo fundamental es contribuir al máximo rendimiento.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1351,7 +1350,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El psicólogo deportivo debe trabajar de forma aislada para no interferir con el trabajo del entrenador.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe trabajar codo con codo con el entrenador.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1375,7 +1374,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El nivel de activación óptimo es el mismo para todos los deportistas y para todas las tareas deportivas.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Cada deportista y situación tiene un nivel óptimo diferente.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1399,7 +1398,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La relajación progresiva de Jacobson se basa exclusivamente en ejercicios de respiración profunda.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Se basa en la tensión y distensión muscular.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1417,7 +1416,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "Los objetivos de resultado son los que más dependen del control directo del propio deportista.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Dependen de factores externos y son menos controlables.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1441,7 +1440,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "En el entrenamiento de toma de decisiones, lo más importante es evaluar únicamente el resultado final de la acción.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Es fundamental discriminar entre decisión y ejecución.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1453,7 +1452,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La evaluación post-competición debe realizarse de forma inmediata, sin importar el estado emocional del deportista.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe esperar a un momento de mayor objetividad.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1465,7 +1464,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La motivación básica se refiere al interés del deportista por la actividad diaria y las sesiones de entrenamiento.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Eso es la motivación cotidiana; la básica es el compromiso a largo plazo.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1489,13 +1488,13 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El refuerzo positivo debe evitarse para que el deportista no se vuelva dependiente de la aprobación externa.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Es una herramienta fundamental para el aprendizaje y la motivación.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El castigo es más eficaz cuando se aplica de forma intermitente e imprevisible.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe ser contingente y claro para ser efectivo.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1513,7 +1512,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El POMS evalúa rasgos de personalidad estables en el deportista de alto rendimiento.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Evalúa estados de ánimo transitorios.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1531,7 +1530,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El aprendizaje por observación (modelado) es ineficaz si el modelo no es un experto mundial en la materia.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Los modelos competentes (compañeros similares) son muy eficaces.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1549,7 +1548,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El entrenamiento psicológico solo es necesario cuando el deportista tiene un problema grave o trastorno mental.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Es una parte de la preparación habitual para optimizar el rendimiento.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1567,7 +1566,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La preparación psicológica debe ser idéntica para deportistas jóvenes y para adultos profesionales.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe adaptarse a la edad y nivel.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1591,7 +1590,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "Los objetivos colectivos son irrelevantes si cada deportista cumple sus objetivos individuales.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Los objetivos de equipo son fundamentales para la cohesión y el éxito grupal.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1603,7 +1602,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El feedback debe ser lo más general posible (ej. '¡bien hecho!') para no abrumar al deportista con detalles.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe ser específico para ser constructivo.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1621,7 +1620,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "Los planes de competición deben centrarse solo en lo que el deportista domina, ignorando posibles fallos.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Deben incluir planes para afrontar dificultades y contingencias.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1657,7 +1656,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La observación en entrenamiento es insuficiente; solo la observación en competición es válida.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Ambas son necesarias para una evaluación completa.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1693,13 +1692,13 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El psicólogo del deporte debe actuar como un segundo entrenador, dando instrucciones técnicas tácticas.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Su rol es psicológico; no debe suplantar la parcela técnica del entrenador.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El entrenamiento atencional debe iniciarse en situaciones de alta presión competitiva.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe progresar de situaciones controladas a situaciones reales.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1717,7 +1716,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La autoconfianza solo depende de los éxitos pasados y no de la preparación actual.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Se nutre de múltiples fuentes, incluyendo la preparación y el modelado.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1747,7 +1746,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El feedback intrínseco es el que proporciona el entrenador tras ver la ejecución de su deportista.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Ese es el feedback extrínseco; el intrínseco viene de los sentidos del propio deportista.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1777,13 +1776,13 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La autocrítica debe centrarse en aspectos que el deportista no puede cambiar para aprender a aceptarlos.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Debe centrarse en aspectos controlables para que sea constructiva.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "Las habilidades sociales son prescindibles en deportes individuales ya que el deportista compite solo.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Son necesarias para la relación con el entrenador y el equipo de apoyo.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1813,7 +1812,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La preparación psicológica de base es la que se realiza justo los minutos antes de la competición.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Esa es la preparación para la actuación; la de base es el trabajo formativo continuado.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1861,7 +1860,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La motivación intrínseca depende exclusivamente de las recompensas económicas recibidas.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Depende del interés y placer por la propia tarea.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1879,7 +1878,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "Los objetivos SMART deben evitar ser realistas para fomentar la ambición máxima.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Deben ser realistas para mantener la motivación y autoconfianza.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1897,7 +1896,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "La fatiga psicológica nunca afecta a la velocidad de reacción muscular.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Puede enlentecer los procesos de respuesta motriz.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1909,7 +1908,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "El psicólogo deportivo no debe participar en reuniones técnicas de equipo.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Es conveniente que participe como asesor en variables psicológicas.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
@@ -1921,7 +1920,7 @@ const BBDD_PREGUNTAS = [
         tema: "Tema 1 Deporte_Antonio",
         pregunta: "Las evaluaciones grupales son más íntimas y precisas que las individuales para detectar problemas personales.",
         opciones: ["Verdadero", "Falso"],
-        correcta: 1 // Falso: Las individuales son necesarias para la privacidad y profundidad.
+        correcta: 1 
     },
     {
         tema: "Tema 1 Deporte_Antonio",
