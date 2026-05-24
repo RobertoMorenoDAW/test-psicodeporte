@@ -15,604 +15,604 @@ const BBDD_PREGUNTAS = [
     
     
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "La exposición y ensayo en imaginación puede incluir la utilización de palabras clave relacionadas con los momentos y situaciones más críticos.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "La exposición y ensayo en imaginación puede incluir la utilización de palabras clave relacionadas con los momentos y situaciones más críticos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El procedimiento clave de la evaluación psicológica en el ámbito del entrenamiento deportivo son los cuestionarios específicos del deporte.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El procedimiento clave de la evaluación psicológica en el ámbito del entrenamiento deportivo son los cuestionarios específicos del deporte.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Las situaciones análogas resultan eficaces cuando provocan un nivel de activación medio-bajo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Las situaciones análogas resultan eficaces cuando provocan un nivel de activación medio-bajo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "La distinción entre la ejecución y la decisión no es un factor relevante en la habilidad de evaluar objetivamente el propio rendimiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "La distinción entre la ejecución y la decisión no es un factor relevante en la habilidad de evaluar objetivamente el propio rendimiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El reforzamiento de la adherencia a los periodos de descanso es una estrategia aconsejable para prevenir el exceso de adherencia al entrenamiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El reforzamiento de la adherencia a los periodos de descanso es una estrategia aconsejable para prevenir el exceso de adherencia al entrenamiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Los errores en la evaluación del comportamiento táctico pueden favorecer un estado de indefensión en lugar de la percepción de control que se deriva de un sistema de evaluación adecuado.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Los errores en la evaluación del comportamiento táctico pueden favorecer un estado de indefensión en lugar de la percepción de control que se deriva de un sistema de evaluación adecuado.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En el entrenamiento de los deportistas para que utilicen autoinstrucciones, el primer paso es que el psicólogo proponga las frases que considere más adecuadas para conseguir los objetivos del deportista.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En el entrenamiento de los deportistas para que utilicen autoinstrucciones, el primer paso es que el psicólogo proponga las frases que considere más adecuadas para conseguir los objetivos del deportista.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En los periodos de “competición menor” el cometido más importante del entrenamiento es la exposición y ensayo en las condiciones de la competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En los periodos de “competición menor” el cometido más importante del entrenamiento es la exposición y ensayo en las condiciones de la competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "La fatiga y el agotamiento psicológicos pueden presentarse por defecto o por exceso mediante contenidos menos o más motivantes o estresantes.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "La fatiga y el agotamiento psicológicos pueden presentarse por defecto o por exceso mediante contenidos menos o más motivantes o estresantes.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Una de las ventajas de los objetivos de resultado respecto a los objetivos de realización es que favorecen en mayor medida la percepción de control.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Una de las ventajas de los objetivos de resultado respecto a los objetivos de realización es que favorecen en mayor medida la percepción de control.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Para cada deportista y situación existe un nivel de activación óptimo en cuya presencia es más probable el máximo rendimiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Para cada deportista y situación existe un nivel de activación óptimo en cuya presencia es más probable el máximo rendimiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En los deportes de equipo, la planificación de objetivos debe referirse a los objetivos colectivos, pero no a los objetivos individuales que van por cuenta de cada deportista.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En los deportes de equipo, la planificación de objetivos debe referirse a los objetivos colectivos, pero no a los objetivos individuales que van por cuenta de cada deportista.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En el entrenamiento de exposición y ensayo en las condiciones de la competición no es necesario que el efecto de las técnicas psicológicas se sume al de otros factores motivantes o estresantes que suelen estar presentes en la competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En el entrenamiento de exposición y ensayo en las condiciones de la competición no es necesario que el efecto de las técnicas psicológicas se sume al de otros factores motivantes o estresantes que suelen estar presentes en la competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El condicionamiento de estrategias psicológicas apropiadas procede prioritariamente en los periodos de pausa de una competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El condicionamiento de estrategias psicológicas apropiadas procede prioritariamente en los periodos de pausa de una competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Establecer objetivos especiales y contingencias apropiadas según se consigan o no tales objetivos, no es una estrategia eficaz para transformar una competición rutinaria en una interesante experiencia de exposición y ensayo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Establecer objetivos especiales y contingencias apropiadas según se consigan o no tales objetivos, no es una estrategia eficaz para transformar una competición rutinaria en una interesante experiencia de exposición y ensayo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En la preparación personal para la actuación en la competición, no se deben anticipar posibles dificultades interferentes para, así, no debilitar la autoconfianza de los deportistas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En la preparación personal para la actuación en la competición, no se deben anticipar posibles dificultades interferentes para, así, no debilitar la autoconfianza de los deportistas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Cuando se establece la prioridad de los objetivos, se debe tener en cuenta: la simplicidad del trabajo a realizar, la urgencia de cada contenido, la relación con otros contenidos, la integración del contenido en el conjunto del trabajo a realizar y el coste de cada contenido en dedicación y esfuerzo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Cuando se establece la prioridad de los objetivos, se debe tener en cuenta: la simplicidad del trabajo a realizar, la urgencia de cada contenido, la relación con otros contenidos, la integración del contenido en el conjunto del trabajo a realizar y el coste de cada contenido en dedicación y esfuerzo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "La falta de adherencia puede proporcionar algún tipo de consecuencia gratificante de mayor peso que los posibles perjuicios.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "La falta de adherencia puede proporcionar algún tipo de consecuencia gratificante de mayor peso que los posibles perjuicios.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "A diferencia de las condiciones estresantes, las condiciones motivantes características de la competición no deben ser consideradas en el entrenamiento de exposición y ensayo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "A diferencia de las condiciones estresantes, las condiciones motivantes características de la competición no deben ser consideradas en el entrenamiento de exposición y ensayo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El cansancio psicológico y la inhibición motriz pueden ser síntomas de alto nivel de estrés que podrían confundirse con síntomas de relajación.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El cansancio psicológico y la inhibición motriz pueden ser síntomas de alto nivel de estrés que podrían confundirse con síntomas de relajación.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En los deportes colectivos, en general, el enfoque atencional debe ser más amplio cuando el deportista atiende a los estímulos antecedentes discriminativos y reducirse cuando toma una decisión y procede a ejecutarla.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En los deportes colectivos, en general, el enfoque atencional debe ser más amplio cuando el deportista atiende a los estímulos antecedentes discriminativos y reducirse cuando toma una decisión y procede a ejecutarla.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Asociar la sensación de cansancio/dolor al rendimiento deportivo no es una estrategia útil para controlar el cansancio o el dolor durante la práctica deportiva.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Asociar la sensación de cansancio/dolor al rendimiento deportivo no es una estrategia útil para controlar el cansancio o el dolor durante la práctica deportiva.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Una puntuación baja en las escalas de motivación y control del estrés del cuestionario CPRD podría indicar una cierta vulnerabilidad a la falta de adherencia.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Una puntuación baja en las escalas de motivación y control del estrés del cuestionario CPRD podría indicar una cierta vulnerabilidad a la falta de adherencia.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "La novedad, la dificultad y el esfuerzo exigido son elementos estresantes en las sesiones de entrenamiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "La novedad, la dificultad y el esfuerzo exigido son elementos estresantes en las sesiones de entrenamiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El reforzamiento diferencial no resulta muy útil cuando se trata de conductas de esfuerzo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El reforzamiento diferencial no resulta muy útil cuando se trata de conductas de esfuerzo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El establecimiento de objetivos personales resulta muy útil tanto antes de las competiciones como antes de las sesiones de entrenamiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El establecimiento de objetivos personales resulta muy útil tanto antes de las competiciones como antes de las sesiones de entrenamiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "Un ejercicio-test sobre la habilidad del deportista para trabajar en imaginación consiste en cronometrar el tiempo que tarda en realizar un desplazamiento en imaginación y compararlo con lo que tardan sus compañeros en la misma distancia.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "Un ejercicio-test sobre la habilidad del deportista para trabajar en imaginación consiste en cronometrar el tiempo que tarda en realizar un desplazamiento en imaginación y compararlo con lo que tardan sus compañeros en la misma distancia.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "El propósito del reforzamiento extrínseco es que el deportista emita la conducta que es objeto de aprendizaje con una mayor frecuencia, de forma que tenga oportunidades de percibir el reforzamiento intrínseco que proporciona la propia conducta.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "El propósito del reforzamiento extrínseco es que el deportista emita la conducta que es objeto de aprendizaje con una mayor frecuencia, de forma que tenga oportunidades de percibir el reforzamiento intrínseco que proporciona la propia conducta.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En el aprendizaje de la decisión entre dos o más conductas alternativas es importante distinguir entre los estímulos antecedentes estables y los estímulos antecedentes variables.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En el aprendizaje de la decisión entre dos o más conductas alternativas es importante distinguir entre los estímulos antecedentes estables y los estímulos antecedentes variables.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2019 Modelo C",
-        pregunta: "En los programas de “coste de respuesta” las condiciones del castigo deben ser progresivamente más duras (de menos a más), de forma que los deportistas acojan estos programas con la motivación más conveniente.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2019 Modelo C",
+        "pregunta": "En los programas de “coste de respuesta” las condiciones del castigo deben ser progresivamente más duras (de menos a más), de forma que los deportistas acojan estos programas con la motivación más conveniente.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Uno de los objetivos de las estrategias de autoaplicación en el deporte es que se produzcan experiencias de reforzamiento interno.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Uno de los objetivos de las estrategias de autoaplicación en el deporte es que se produzcan experiencias de reforzamiento interno.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Una de las escalas del cuestionario CPRD es: 'Resistencia a la frustración'.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Una de las escalas del cuestionario CPRD es: 'Resistencia a la frustración'.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Tanto los objetivos de resultado intra-sujeto como los objetivos de realización contribuyen a aumentar la percepción de control y a fortalecer la autoconfianza antes de una competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Tanto los objetivos de resultado intra-sujeto como los objetivos de realización contribuyen a aumentar la percepción de control y a fortalecer la autoconfianza antes de una competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En el proceso de aprendizaje de habilidades, las sensaciones asociadas a la ejecución se consideran una vía apropiada para que los deportistas puedan obtener feedback.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En el proceso de aprendizaje de habilidades, las sensaciones asociadas a la ejecución se consideran una vía apropiada para que los deportistas puedan obtener feedback.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En el programa de los 'Cinco Pasos' de Singer, estos son: motivación, autoconfianza, atención, nivel de activación y toma de decisiones.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En el programa de los 'Cinco Pasos' de Singer, estos son: motivación, autoconfianza, atención, nivel de activación y toma de decisiones.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "El entrenamiento de los deportistas en técnicas de relajación debe incluir, entre otras estrategias, el control de estímulos antecedentes relacionados con las sesiones de práctica.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "El entrenamiento de los deportistas en técnicas de relajación debe incluir, entre otras estrategias, el control de estímulos antecedentes relacionados con las sesiones de práctica.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Los objetivos de realización son más apropiados que los objetivos de resultado para desarrollar un clima motivante /estresante que transforme la competición rutinaria en una experiencia de exposición y ensayo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Los objetivos de realización son más apropiados que los objetivos de resultado para desarrollar un clima motivante /estresante que transforme la competición rutinaria en una experiencia de exposición y ensayo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En el aprendizaje de habilidades deportivas, uno de los propósitos del control de estímulos ambientales es que los deportistas se motiven más.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En el aprendizaje de habilidades deportivas, uno de los propósitos del control de estímulos ambientales es que los deportistas se motiven más.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "La economía de fichas es una estrategia apropiada en el entrenamiento de los deportes de equipo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "La economía de fichas es una estrategia apropiada en el entrenamiento de los deportes de equipo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "La combinación apropiada de 'establecimiento de objetivos de resultado' difíciles de conseguir, y bien 'reforzamiento positivo o negativo' si se alcanza el objetivo, o 'castigo' si no se consigue, puede utilizarse para provocar una situación estresante que se aproxime a la que está presente en una competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "La combinación apropiada de 'establecimiento de objetivos de resultado' difíciles de conseguir, y bien 'reforzamiento positivo o negativo' si se alcanza el objetivo, o 'castigo' si no se consigue, puede utilizarse para provocar una situación estresante que se aproxime a la que está presente en una competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Con los deportistas más jóvenes es difícil introducir el entrenamiento psicológico específico como parte de su entrenamiento cotidiano.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Con los deportistas más jóvenes es difícil introducir el entrenamiento psicológico específico como parte de su entrenamiento cotidiano.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En el aprendizaje de las conductas de toma de decisiones, el aspecto fundamental es el resultado inmediato de cada alternativa posible.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En el aprendizaje de las conductas de toma de decisiones, el aspecto fundamental es el resultado inmediato de cada alternativa posible.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Uno de los principales cometidos de las matrices de decisiones es que los deportistas observen la relación entre los costes a corto plazo y los beneficios a medio/largo plazo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Uno de los principales cometidos de las matrices de decisiones es que los deportistas observen la relación entre los costes a corto plazo y los beneficios a medio/largo plazo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Las tendencias de funcionamiento constituyen directrices que deberían seguir, preferentemente, las decisiones de los deportistas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Las tendencias de funcionamiento constituyen directrices que deberían seguir, preferentemente, las decisiones de los deportistas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "La escala de 'control del estrés' del cuestionario CPRD incluye ítems relacionados con la autoconfianza.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "La escala de 'control del estrés' del cuestionario CPRD incluye ítems relacionados con la autoconfianza.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En la preparación personal para la actuación en la competición, no es conveniente anticipar posibles dificultades interferentes para, así, no debilitar la autoconfianza de los deportistas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En la preparación personal para la actuación en la competición, no es conveniente anticipar posibles dificultades interferentes para, así, no debilitar la autoconfianza de los deportistas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Cuando se establece la prioridad de los objetivos, se debe tener en cuenta: la simplicidad del trabajo a realizar, la urgencia de cada contenido, la relación con otros contenidos, la integración del contenido en el conjunto del trabajo a realizar y el coste de cada contenido en dedicación y esfuerzo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Cuando se establece la prioridad de los objetivos, se debe tener en cuenta: la simplicidad del trabajo a realizar, la urgencia de cada contenido, la relación con otros contenidos, la integración del contenido en el conjunto del trabajo a realizar y el coste de cada contenido en dedicación y esfuerzo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "La falta de adherencia puede proporcionar algún tipo de consecuencia gratificante de mayor peso que los posibles perjuicios.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "La falta de adherencia puede proporcionar algún tipo de consecuencia gratificante de mayor peso que los posibles perjuicios.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "A diferencia de las condiciones estresantes, las condiciones motivantes características de la competición no deben ser consideradas en el entrenamiento de exposición y ensayo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "A diferencia de las condiciones estresantes, las condiciones motivantes características de la competición no deben ser consideradas en el entrenamiento de exposición y ensayo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "El cansancio psicológico y la inhibición motriz pueden ser síntomas de alto nivel de estrés que podrían confundirse con síntomas de relajación.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "El cansancio psicológico y la inhibición motriz pueden ser síntomas de alto nivel de estrés que podrían confundirse con síntomas de relajación.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En los deportes colectivos, en general, el enfoque atencional debe ser más amplio cuando el deportista atiende a los estímulos antecedentes discriminativos y reducirse cuando toma una decisión y procede a ejecutarla.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En los deportes colectivos, en general, el enfoque atencional debe ser más amplio cuando el deportista atiende a los estímulos antecedentes discriminativos y reducirse cuando toma una decisión y procede a ejecutarla.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Asociar la sensación de cansancio/dolor al rendimiento deportivo es una estrategia útil para controlar el cansancio o el dolor durante la práctica deportiva.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Asociar la sensación de cansancio/dolor al rendimiento deportivo es una estrategia útil para controlar el cansancio o el dolor durante la práctica deportiva.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Una puntuación baja en las escalas de motivación y control del estrés del cuestionario CPRD podría indicar una cierta vulnerabilidad a la falta de adherencia.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Una puntuación baja en las escalas de motivación y control del estrés del cuestionario CPRD podría indicar una cierta vulnerabilidad a la falta de adherencia.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "La novedad, la dificultad y el esfuerzo exigido son elementos estresantes en las sesiones de entrenamiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "La novedad, la dificultad y el esfuerzo exigido son elementos estresantes en las sesiones de entrenamiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "El reforzamiento diferencial es una estrategia útil para el aprendizaje de conductas de esfuerzo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "El reforzamiento diferencial es una estrategia útil para el aprendizaje de conductas de esfuerzo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "El establecimiento de objetivos personales resulta muy útil tanto antes de las competiciones como antes de las sesiones de entrenamiento.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "El establecimiento de objetivos personales resulta muy útil tanto antes de las competiciones como antes de las sesiones de entrenamiento.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "Un ejercicio-test sobre la habilidad del deportista para trabajar en imaginación consiste en cronometrar el tiempo que tarda en realizar un desplazamiento en imaginación y compararlo con lo que tardan sus compañeros en la misma distancia.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "Un ejercicio-test sobre la habilidad del deportista para trabajar en imaginación consiste en cronometrar el tiempo que tarda en realizar un desplazamiento en imaginación y compararlo con lo que tardan sus compañeros en la misma distancia.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "El propósito del reforzamiento extrínseco es que el deportista emita la conducta que es objeto de aprendizaje con una mayor frecuencia, de forma que tenga oportunidades de percibir el reforzamiento intrínseco que proporciona la propia conducta.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "El propósito del reforzamiento extrínseco es que el deportista emita la conducta que es objeto de aprendizaje con una mayor frecuencia, de forma que tenga oportunidades de percibir el reforzamiento intrínseco que proporciona la propia conducta.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En el aprendizaje de la decisión entre dos o más conductas alternativas es importante distinguir entre los estímulos antecedentes estables y los estímulos antecedentes variables.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En el aprendizaje de la decisión entre dos o más conductas alternativas es importante distinguir entre los estímulos antecedentes estables y los estímulos antecedentes variables.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2019 Modelo C",
-        pregunta: "En los programas de 'coste de respuesta' las condiciones del castigo deben ser progresivamente más duras (de menos a más), de forma que los deportistas acojan estos programas con la motivación más conveniente.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2019 Modelo C",
+        "pregunta": "En los programas de 'coste de respuesta' las condiciones del castigo deben ser progresivamente más duras (de menos a más), de forma que los deportistas acojan estos programas con la motivación más conveniente.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Las dos grandes fuentes que principalmente nutren al nivel de activación son la motivación y la autoconfianza.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Las dos grandes fuentes que principalmente nutren al nivel de activación son la motivación y la autoconfianza.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Cuando la competición siguiente está próxima, la evaluación post-competición debe centrarse prioritariamente en los recursos que el deportista no domina para que pueda rendir mejor en la competición inminente.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Cuando la competición siguiente está próxima, la evaluación post-competición debe centrarse prioritariamente en los recursos que el deportista no domina para que pueda rendir mejor en la competición inminente.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Durante los periodos de pausa en las competiciones, las técnicas psicológicas deben estar condicionadas a estímulos antecedentes muy concretos, de forma que no interfieran en la concentración de los deportistas en las tareas deportivas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Durante los periodos de pausa en las competiciones, las técnicas psicológicas deben estar condicionadas a estímulos antecedentes muy concretos, de forma que no interfieran en la concentración de los deportistas en las tareas deportivas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Potenciar la autoconfianza para contrarrestar el estrés es una estrategia muy útil en el periodo previo a una competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Potenciar la autoconfianza para contrarrestar el estrés es una estrategia muy útil en el periodo previo a una competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "El proceso de búsqueda de interpretaciones, expectativas y creencias alternativas incluye la búsqueda de evidencia que el deportista debe realizar en el periodo posterior a la sesión con el psicólogo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "El proceso de búsqueda de interpretaciones, expectativas y creencias alternativas incluye la búsqueda de evidencia que el deportista debe realizar en el periodo posterior a la sesión con el psicólogo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "En deportes de interacción con compañeros y/o adversarios, al elaborar los planes atencionales para una competición suelen ser más apropiados los estímulos externos.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "En deportes de interacción con compañeros y/o adversarios, al elaborar los planes atencionales para una competición suelen ser más apropiados los estímulos externos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Las sesiones de práctica en imaginación deben ser lo suficientemente extensas como para que el deportista pueda visualizar toda la competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Las sesiones de práctica en imaginación deben ser lo suficientemente extensas como para que el deportista pueda visualizar toda la competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Cuando se combinan dos o más técnicas de relajación en situaciones estresantes que exigen un afrontamiento inmediato, es aconsejable utilizar los ejercicios de respiración antes que las otras técnicas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Cuando se combinan dos o más técnicas de relajación en situaciones estresantes que exigen un afrontamiento inmediato, es aconsejable utilizar los ejercicios de respiración antes que las otras técnicas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "La “detención del pensamiento”, seguida de “respiración profunda” y “autoinstrucciones enérgicas” sobre la conducta alternativa, puede ser muy útil para debilitar el vínculo “estímulo-respuesta” existente y potenciar un vínculo “estímulo-respuesta” nuevo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "La “detención del pensamiento”, seguida de “respiración profunda” y “autoinstrucciones enérgicas” sobre la conducta alternativa, puede ser muy útil para debilitar el vínculo “estímulo-respuesta” existente y potenciar un vínculo “estímulo-respuesta” nuevo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "En su estudio pionero de los psicólogos que trabajaron con deportistas que participaron en los Juegos Olímpicos de 1984, Orlick y Partington encontraron que los psicólogos que fueron valorados positivamente, entre otras características, dedicaban más tiempo al trabajo en grupo con talleres, etc. que a las sesiones individuales.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "En su estudio pionero de los psicólogos que trabajaron con deportistas que participaron en los Juegos Olímpicos de 1984, Orlick y Partington encontraron que los psicólogos que fueron valorados positivamente, entre otras características, dedicaban más tiempo al trabajo en grupo con talleres, etc. que a las sesiones individuales.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "En la relación entre activación y rendimiento deportivo, la U invertida puede ser una “U invertida deforme”.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "En la relación entre activación y rendimiento deportivo, la U invertida puede ser una “U invertida deforme”.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "La motivación básica se refiere al interés del deportista por su actividad diaria.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "La motivación básica se refiere al interés del deportista por su actividad diaria.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "En el contexto del alto rendimiento, el psicólogo tiene un único objetivo fundamental: contribuir al máximo rendimiento de los deportistas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "En el contexto del alto rendimiento, el psicólogo tiene un único objetivo fundamental: contribuir al máximo rendimiento de los deportistas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Las variables psicológicas pueden ser un antecedente de la conducta deportiva o bien esta una consecuencia de aquella.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Las variables psicológicas pueden ser un antecedente de la conducta deportiva o bien esta una consecuencia de aquella.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "La principal virtud del cuestionario CPRD en el campo aplicado es que las puntuaciones de sus escalas y subescalas permiten obtener un diagnóstico estable del funcionamiento psicológico de los deportistas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "La principal virtud del cuestionario CPRD en el campo aplicado es que las puntuaciones de sus escalas y subescalas permiten obtener un diagnóstico estable del funcionamiento psicológico de los deportistas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Los excesos de adherencia al entrenamiento suelen estar reforzados por el reconocimiento social.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Los excesos de adherencia al entrenamiento suelen estar reforzados por el reconocimiento social.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "En ocasiones, cuando se trata de toma de decisiones, el aprendizaje incluye la vinculación de una conducta ya existente a circunstancias antecedentes diferentes.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "En ocasiones, cuando se trata de toma de decisiones, el aprendizaje incluye la vinculación de una conducta ya existente a circunstancias antecedentes diferentes.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "El elemento esencial de los entrenamientos conjuntos es que no sean competitivos.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "El elemento esencial de los entrenamientos conjuntos es que no sean competitivos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Para calcular la tendencia colectiva mediante el instrumento TEP se consideran las puntuaciones medias de cada variable, pero no las desviaciones típicas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Para calcular la tendencia colectiva mediante el instrumento TEP se consideran las puntuaciones medias de cada variable, pero no las desviaciones típicas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Junio 2022 Modelo C",
-        pregunta: "Los objetivos de resultado, la evaluación del rendimiento y los premios y penalizaciones vinculados a esos objetivos permiten incrementar la motivación y la concentración en los ejercicios de ensayo repetitivo de habilidades de precisión.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Junio 2022 Modelo C",
+        "pregunta": "Los objetivos de resultado, la evaluación del rendimiento y los premios y penalizaciones vinculados a esos objetivos permiten incrementar la motivación y la concentración en los ejercicios de ensayo repetitivo de habilidades de precisión.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Es irrelevante incidir en las actividades deportivas para que estas tengan un impacto psicológico favorable.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Es irrelevante incidir en las actividades deportivas para que estas tengan un impacto psicológico favorable.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "De los errores cometidos por psicólogos en los equipos de fútbol, aprendimos, entre otras cosas, que el trabajo psicológico específico con los jugadores debe ser obligatorio.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "De los errores cometidos por psicólogos en los equipos de fútbol, aprendimos, entre otras cosas, que el trabajo psicológico específico con los jugadores debe ser obligatorio.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "La aportación de Burt Giges desde la Psicología Clínica plantea un enfoque de intervención alternativo al entrenamiento en habilidades psicológicas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "La aportación de Burt Giges desde la Psicología Clínica plantea un enfoque de intervención alternativo al entrenamiento en habilidades psicológicas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "El TEP es un instrumento cuya principal aportación es recabar información sobre la tendencia colectiva del estado psicológico de los deportistas de un equipo.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "El TEP es un instrumento cuya principal aportación es recabar información sobre la tendencia colectiva del estado psicológico de los deportistas de un equipo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "La activación “positiva” favorece el rendimiento, mientras que la activación “negativa” lo perjudica.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "La activación “positiva” favorece el rendimiento, mientras que la activación “negativa” lo perjudica.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "En el tramo final previo a la competición, los check-points sirven para que el deportista de alto rendimiento evalúe sus posibilidades de ganar.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "En el tramo final previo a la competición, los check-points sirven para que el deportista de alto rendimiento evalúe sus posibilidades de ganar.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "En la evaluación del rendimiento post-competición, una vez valorados independientemente el rendimiento y el resultado, se deben extraer conclusiones constructivas sobre la relación entre ambos.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "En la evaluación del rendimiento post-competición, una vez valorados independientemente el rendimiento y el resultado, se deben extraer conclusiones constructivas sobre la relación entre ambos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Los modelos “expertos” son deportistas de prestigio que se caracterizan por sus éxitos y reconocida destreza en las conductas a observar e imitar.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Los modelos “expertos” son deportistas de prestigio que se caracterizan por sus éxitos y reconocida destreza en las conductas a observar e imitar.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "La práctica en imaginación “a cámara lenta” no es apropiada cuando se intenta modificar un gesto técnico.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "La práctica en imaginación “a cámara lenta” no es apropiada cuando se intenta modificar un gesto técnico.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "La carga psicológica en el entrenamiento deportivo se relaciona fundamentalmente con tres variables: determinación, perseverancia y tolerancia a la frustración.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "La carga psicológica en el entrenamiento deportivo se relaciona fundamentalmente con tres variables: determinación, perseverancia y tolerancia a la frustración.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Los estímulos antecedentes estables son los que conforman la situación en la que procede tomar una decisión.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Los estímulos antecedentes estables son los que conforman la situación en la que procede tomar una decisión.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Los deportistas muy competitivos no son necesariamente buenos competidores.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Los deportistas muy competitivos no son necesariamente buenos competidores.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "En la evaluación del rendimiento se debe discriminar entre decisión, ejecución, resultado inmediato y resultado global.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "En la evaluación del rendimiento se debe discriminar entre decisión, ejecución, resultado inmediato y resultado global.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Lo que se pretende con las situaciones análogas es que el deportista ensaye en condiciones estresantes, pero sin la interferencia de otros elementos que forman parte de un partido.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Lo que se pretende con las situaciones análogas es que el deportista ensaye en condiciones estresantes, pero sin la interferencia de otros elementos que forman parte de un partido.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Cuando la competición siguiente está próxima, la evaluación post-competición debe centrarse prioritariamente en los recursos que el deportista no domina para favorecer que pueda rendir mejor en la competición inminente.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Cuando la competición siguiente está próxima, la evaluación post-competición debe centrarse prioritariamente en los recursos que el deportista no domina para favorecer que pueda rendir mejor en la competición inminente.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Durante los periodos de pausa en las competiciones, las técnicas psicológicas deben estar condicionadas a estímulos antecedentes muy concretos, de forma que no interfieran en la concentración de los deportistas en las tareas deportivas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Durante los periodos de pausa en las competiciones, las técnicas psicológicas deben estar condicionadas a estímulos antecedentes muy concretos, de forma que no interfieran en la concentración de los deportistas en las tareas deportivas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "Las sesiones de práctica en imaginación deben ser lo suficientemente extensas como para que el deportista pueda visualizar toda la competición.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "Las sesiones de práctica en imaginación deben ser lo suficientemente extensas como para que el deportista pueda visualizar toda la competición.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "La principal virtud del cuestionario CPRD en el campo aplicado es que las puntuaciones de sus escalas y subescalas permiten obtener un diagnóstico estable del funcionamiento psicológico de los deportistas.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "La principal virtud del cuestionario CPRD en el campo aplicado es que las puntuaciones de sus escalas y subescalas permiten obtener un diagnóstico estable del funcionamiento psicológico de los deportistas.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "El elemento esencial de los entrenamientos conjuntos es que sean competitivos.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "El elemento esencial de los entrenamientos conjuntos es que sean competitivos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 1
     },
     {
-        tema: "Septiembre 2022 Modelo A",
-        pregunta: "En ocasiones, cuando se trata de toma de decisiones, el aprendizaje incluye la vinculación de una conducta ya existente a circunstancias antecedentes diferentes.",
-        opciones: ["Verdadero", "Falso"],
-        correcta: 0
+        "tema": "Septiembre 2022 Modelo A",
+        "pregunta": "En ocasiones, cuando se trata de toma de decisiones, el aprendizaje incluye la vinculación de una conducta ya existente a circunstancias antecedentes diferentes.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": 0
     },
     {
         tema: "Junio 2023 Modelo C",
